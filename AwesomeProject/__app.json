@@ -1,0 +1,10 @@
+{
+  
+  "expo": {
+    "name": "AwesomeProject",
+    "displayName": "AwesomeProject",
+    "slug": "the-pogoda",
+    "privacy": "public",
+    "sdkVersion": "27.0.0"
+  }
+}
